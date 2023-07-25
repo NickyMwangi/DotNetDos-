@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9n6dUUGDtWJweS9FrGPC+VaAsZOeaIC+wemW7hKaodh8SR7ZyLnL98caRCq8KdhyehzfYhk8Lrd1/lghgDxIFw==",
+  "success": true,
+  "projectFilePath": "D:\\Lessons\\DotNetDos\\WebScrapping\\WebScrapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nickson\\.nuget\\packages\\htmlagilitypack\\1.11.48\\htmlagilitypack.1.11.48.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\Lessons\DotNetDos\WebScrapping\bin\Debug\net7.0\WebScrapping.exe
+D:\Lessons\DotNetDos\WebScrapping\bin\Debug\net7.0\WebScrapping.deps.json
+D:\Lessons\DotNetDos\WebScrapping\bin\Debug\net7.0\WebScrapping.runtimeconfig.json
+D:\Lessons\DotNetDos\WebScrapping\bin\Debug\net7.0\WebScrapping.dll
+D:\Lessons\DotNetDos\WebScrapping\bin\Debug\net7.0\WebScrapping.pdb
+D:\Lessons\DotNetDos\WebScrapping\bin\Debug\net7.0\HtmlAgilityPack.dll
+D:\Lessons\DotNetDos\WebScrapping\obj\Debug\net7.0\WebScrapping.csproj.AssemblyReference.cache
+D:\Lessons\DotNetDos\WebScrapping\obj\Debug\net7.0\WebScrapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\DotNetDos\WebScrapping\obj\Debug\net7.0\WebScrapping.AssemblyInfoInputs.cache
+D:\Lessons\DotNetDos\WebScrapping\obj\Debug\net7.0\WebScrapping.AssemblyInfo.cs
+D:\Lessons\DotNetDos\WebScrapping\obj\Debug\net7.0\WebScrapping.csproj.CoreCompileInputs.cache
+D:\Lessons\DotNetDos\WebScrapping\obj\Debug\net7.0\WebScrapping.csproj.CopyComplete
+D:\Lessons\DotNetDos\WebScrapping\obj\Debug\net7.0\WebScrapping.dll
+D:\Lessons\DotNetDos\WebScrapping\obj\Debug\net7.0\refint\WebScrapping.dll
+D:\Lessons\DotNetDos\WebScrapping\obj\Debug\net7.0\WebScrapping.pdb
+D:\Lessons\DotNetDos\WebScrapping\obj\Debug\net7.0\WebScrapping.genruntimeconfig.cache
+D:\Lessons\DotNetDos\WebScrapping\obj\Debug\net7.0\ref\WebScrapping.dll
