@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JBzDMsklcX44ceY3R0cA+vav5dGZmjyKb+fDg2gNePsOg+oC4rU3867NhvF5UXOpANg/THDut9CzwT2Sv4LjMQ==",
+  "dgSpecHash": "htB64rWWH9Q=",
   "success": true,
-  "projectFilePath": "D:\\Lessons\\DotNetDos\\DotNetDos\\DotNetDos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Lessons\\DotNetDos-\\DotNetDos\\DotNetDos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicky\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Nicky\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Nicky\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Nicky\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
